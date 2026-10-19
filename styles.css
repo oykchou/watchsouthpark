@@ -38,7 +38,7 @@ body {
     background-color: rgb(17, 104, 28);
     color: rgb(255, 255, 255);
     font-size: 30px;
-    width: 60%;
+    width: 100%;
 }
 
 .header2 {
@@ -90,7 +90,7 @@ body {
     background-color: rgb(255, 255, 24);
     color: rgb(255, 255, 255);
     font-size: 30px;
-    width: 40%;
+    width: 100%;
 }
 
 .header3 {
@@ -111,7 +111,7 @@ body {
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
-    width: 15%;
+    width: 40%;
     background-color: red;
     color: white;
     text-align: center;
